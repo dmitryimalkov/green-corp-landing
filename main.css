@@ -62,6 +62,7 @@ button {
 }
 .about__image {
   width: 500px;
+  display: block;
 }
 
 .about__sun-image {
